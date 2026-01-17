@@ -15,6 +15,16 @@ This repository demonstrates **daily-use projects** that help you learn Python b
 ---
 
 ## 📂 Features & Examples
+-  ** Requests & APIs: How to fetch live data from websites or APIs.
+  
+-  ** BeautifulSoup / Scrapy: Parsing HTML to extract information.
+
+- ** Data Processing: Cleaning and structuring data.
+
+- ** Automation: Scheduling the script to run daily (using schedule or cron).
+
+ - ** Report Generation: Exporting results into a neat PDF/CSV file.
+
 - 📧 **Automated Email Sender** – Send professional emails with signatures and reminders.
 - 📂 **File Organizer** – Automatically sort files into folders by type.
 - 🕒 **Task Scheduler** – Run scripts at specific times for reminders or automation.
